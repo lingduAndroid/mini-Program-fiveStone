@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/choose/choose",
+    "pages/index/index",
+    "pages/room/room",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#6c6c6c",
+    "navigationBarTitleText": "传说中的五子棋",
+    "navigationBarTextStyle":"white",
+    "backgroundColor": "#000000"
+  }
+}

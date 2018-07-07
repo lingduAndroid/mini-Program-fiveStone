@@ -1,0 +1,5 @@
+<view class="container">
+<image src='/images/head.jpg' style='width:500rpx;margin-top:20px;margin-bottom:20px;'></image>
+<button class='button' bindtap='toRoom'>创建房间</button>
+<button class='button' bindtap='toIndex'>单机对战</button>
+</view>
